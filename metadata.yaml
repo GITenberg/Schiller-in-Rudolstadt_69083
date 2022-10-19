@@ -1,0 +1,29 @@
+_repo: Schiller-in-Rudolstadt_69083
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Geißler, Willi
+    gutenberg_agent_id: '55094'
+    url: http://www.gutenberg.org/2009/agents/55094
+creator:
+  author:
+    agent_name: Rein, Berthold
+    gutenberg_agent_id: '55093'
+    url: http://www.gutenberg.org/2009/agents/55093
+description: ''
+gutenberg_issued: '2022-10-01'
+identifiers:
+  gutenberg: '69083'
+language: de
+pgterms:marc905: 20220713082620rein
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Greifenverlag,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Schiller in Rudolstadt
+url: http://www.gutenberg.org/ebooks/69083
