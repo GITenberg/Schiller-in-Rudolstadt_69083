@@ -5,12 +5,17 @@ contributor:
     agent_name: Geißler, Willi
     gutenberg_agent_id: '55094'
     url: http://www.gutenberg.org/2009/agents/55094
+covers:
+- cover_type: archival
+  image_path: 69083-h/images/cover.jpg
 creator:
   author:
     agent_name: Rein, Berthold
     gutenberg_agent_id: '55093'
     url: http://www.gutenberg.org/2009/agents/55093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69083#Schiller-in-Rudolstadt
 gutenberg_issued: '2022-10-01'
 identifiers:
   gutenberg: '69083'
